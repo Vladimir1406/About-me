@@ -6,10 +6,6 @@ Hello, my name is Vladimir Antonenko.
 
 * I am a frontend developer.
 
-## Contacts
-
-* Email: antonenko.exceedteam@gmail.com
-
 ## Stack technologies
 
 * HTML
