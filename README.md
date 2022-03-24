@@ -2,30 +2,28 @@
 
 ## Who am I
 
-Hello, I'm Anastasia Kuznetsova.
+Hello, my name is Vladimir Antonenko.
 
-* I am a frontend developer
+* I am a frontend developer.
 
-## Contact me
+## Contacts
 
-If you are interested in my work or have any question or comment, please feel free to contact me anytime.
-
-* Email: anastasiakuznetsova289@gmail.com
+* Email: antonenko.exceedteam@gmail.com
 
 ## Stack technologies
 
-* JavaScript 
-* Ruby
-
+* HTML
+* CSS
+* Javascript
 * React
-* Next js
+* SCSS
 * Redux
-* Redux Thunk
-* CSS3, SASS/LESS
-* Styled components
-* Nokogiri
+* Typescript
+* Styled-Components
+* Redux-saga
+* GraphQL
+* NodeJs
 
 ## Education
 
-* M.S., Software engineering, Platov South-Russian State Polytechnic University (NPI), 2017-2019.
-* B.S., Software and administration of information systems, Platov South-Russian State Polytechnic University (NPI), 2013-2017.
+* B.S., Infocommunication technologies and communication systems, Platov South-Russian State Polytechnic University (NPI), 2017-2021.
