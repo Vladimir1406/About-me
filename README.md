@@ -2,24 +2,31 @@
 
 ## Who am I
 
-Hello, my name is Vladimir Antonenko.
+Hello, my name is Vladimir.
 
 * I am a frontend developer.
 
 ## Stack technologies
 
-* HTML
-* CSS
-* Javascript
+* JavaScript
+* TypeScript
 * React
-* SCSS
+* Next.js
+* React-i18next
 * Redux
-* Typescript
-* Styled-Components
-* Redux-saga
 * GraphQL
-* NodeJs
+* Yup
+* Lodash
+* Formik
+* Moment
+* Material UI
+* AntD
+* Date-fns
+* CSS
+* SCSS/SASS
+* styled-components
+* TailwindCSS
 
 ## Education
 
-* B.S., Infocommunication technologies and communication systems, Platov South-Russian State Polytechnic University (NPI), 2017-2021.
+* B.S., Infocommunication technologies and communication systems.
